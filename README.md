@@ -1,0 +1,5 @@
+- 👋 Wsh, C'est moi @Wezah
+- 👀 I’m interested in (tamere la pute enculé)
+- 🌱 I’m currently learning zbi
+- 💞️ I’m looking to collaborate on KANEKI BEST DEV
+- 📫 How to reach me : https://discord.gg/KqfwXAz957 / w€zah#0212
