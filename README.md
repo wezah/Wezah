@@ -6,8 +6,8 @@
      </a>
 </p>
 
-<p align="center">- 📚 丶Je suis intéressé par : *nehess
+- 📚 丶Je suis intéressé par : _**nehess**_
 
-<p align="center">- 🌊 丶J'travail sur un bot discord [(KENZO)](https://discord.gg/QCv8WqG8zG)
+- 🌊 丶J'travail sur un bot discord [(KENZO)](https://discord.gg/QCv8WqG8zG)
 
-<p align="center">- 📞 丶https://discord.gg/KqfwXAz957 / w€zah#0212
+- 📞 丶https://discord.gg/KqfwXAz957 / w€zah#0212
