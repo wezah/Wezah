@@ -1,4 +1,4 @@
-- 🌙 丶Wsh, @Wezah
+- 🌙 丶Wsh, c'est @Wezah
 - 📚 丶Je suis intéressé par (tamere la pute enculé)
 - 🌊 丶J'travail sur un bot discord (KENZO).
 - 📞 丶https://discord.gg/KqfwXAz957 / w€zah#0212
