@@ -1,5 +1,6 @@
 <h1 align="center">🌙 丶Wsh, c'est @Wezah</h1>
-- 📚 丶Je suis intéressé par **(tamere la pute enculé)**
+
+- 📚 丶Je suis intéressé par : nehess
 
 - 🌊 丶J'travail sur un bot discord [(KENZO)](https://discord.gg/QCv8WqG8zG)
 
