@@ -8,6 +8,6 @@
 
 <p align="center"><br>
   <a href="https://github.com/Wezah">
-    <img src="https://discord.c99.nl/widget/theme-4/789071575420370975.png"/>
+    <img src="https://discord.c99.nl/widget/theme-3/807639128257855517.png"/>
      </a>
 </p>
