@@ -10,7 +10,7 @@
 
 - 🏴‍☠️ 丶J'travail sur un bot discord [(KENZO)](https://discord.gg/qRpZAgCUGP)
 
-- 🏴‍☠️ 丶https://discord.gg/KqfwXAz957 / w€zah#0212
+- 🏴‍☠️ 丶https://discord.gg/qRpZAgCUGP / w€zah#0212
 
 
 \/
