@@ -21,4 +21,4 @@
 
 ---
 
-![Banner](https://i.pinimg.com/originals/b1/76/7a/b1767a9e6aeb814387bc69bca5171484.gif)
+![Banner](https://i.pinimg.com/originals/5d/c3/70/5dc37055827cf854d1b07090e5948f77.gif)
