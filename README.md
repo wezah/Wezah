@@ -14,7 +14,7 @@
 </p>
 
 ---
-- 🏴‍☠️丶Je suis intéressé par : _**nehess
+- 🏴‍☠️丶Je suis intéressé par : _**nehess**_
 
 - 🏴‍☠️ 丶J'travail sur un bot discord [(KENZO)](https://discord.gg/qRpZAgCUGP)
 
