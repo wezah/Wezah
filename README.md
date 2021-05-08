@@ -15,9 +15,13 @@
 
 
 
+## 🔗 Connect with me:
+<p align="left">
+<a href="https://twitter.com/667Wezah"><img src="https://i.imgur.com/CuIpv32.png" alt="sayrixfx" width="37" height="30" /></a> 
+<a href="https://www.youtube.com/channel/UCI9ELTuau0YlBPP5miLKsXw"><img src="https://i.imgur.com/JVFQEu8.png" alt="sayrix" width="41"  height="30" /></a> 
+<a href="https://discordapp.com/users/807639128257855517"><img src="https://i.imgur.com/ECp26UF.png" alt="jNKdusJ" width="38" height="42" /></a>
+</p>
 
-
-[![Discord](https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/807639128257855517)[![Twitter](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/667Wezah)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCI9ELTuau0YlBPP5miLKsXw)
 
 ---
 
