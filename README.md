@@ -1,4 +1,4 @@
-<h1 align="center">🌙 丶Wsh, c'est @Wezah</h1>
+<h1 align="center">🏴‍☠️ 丶Wsh, c'est @Wezah</h1>
 
 <p align="center"><br>
   <a href="https://github.com/Wezah">
