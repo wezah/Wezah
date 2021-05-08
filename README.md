@@ -19,4 +19,6 @@
 
 [![Discord](https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/807639128257855517)[![Twitter](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/667Wezah)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCI9ELTuau0YlBPP5miLKsXw)
 
-![Banner](https://pa1.narvii.com/6706/265c35c6db6acde33ec3f84e8479a3ea738a674f_hq.gif)
+---
+
+![Banner](https://i.pinimg.com/originals/b1/76/7a/b1767a9e6aeb814387bc69bca5171484.gif)
