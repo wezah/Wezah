@@ -15,6 +15,6 @@
 ---
 - 🏴‍☠️丶Je suis intéressé par : _**nehess**_
 
-- 🏴‍☠️ 丶J'travail sur un bot discord [(KENZO)](https://discord.gg/98s7eCB77n)
+- 🏴‍☠️ 丶J'travail sur un bot discord [(TATSUYA)](https://discord.gg/ucAMhCUCXv)
 
-- 🏴‍☠️ 丶https://discord.gg/98s7eCB77n / w€zah#9037
+- 🏴‍☠️ 丶https://discord.gg/ucAMhCUCXv / w€z#8000
