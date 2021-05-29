@@ -17,4 +17,4 @@
 
 - 🏴‍☠️ 丶J'travail sur un bot discord [(TATSUYA)](https://discord.gg/Wbg5TYHAAF)
 
-- 🏴‍☠️ 丶https://discord.gg/Wbg5TYHAAF / w€z#8000
+- 🏴‍☠️ 丶https://discord.gg/5q3EyxwyCj / wez qlf#8000
