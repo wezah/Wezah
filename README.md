@@ -15,6 +15,6 @@
 ---
 - 🏴‍☠️丶Je suis intéressé par : _**nehess**_
 
-- 🏴‍☠️ 丶J'travail sur un bot discord [(TATSUYA)](https://discord.gg/Wbg5TYHAAF)
+- 🏴‍☠️ 丶J'travail sur un bot discord [(Sano Bot)](https://discord.gg/Wbg5TYHAAF)
 
 - 🏴‍☠️ 丶https://discord.gg/5q3EyxwyCj / wez qlf#8000
