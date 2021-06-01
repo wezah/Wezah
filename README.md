@@ -15,6 +15,6 @@
 ---
 - 🏴‍☠️丶Je suis intéressé par : _**nehess**_
 
-- 🏴‍☠️ 丶J'travail sur un bot discord [(Hyphus Bot)](https://discord.gg/5q3EyxwyCj)
+- 🏴‍☠️ 丶J'travail sur un bot discord [(Hyphus Bot)](https://discord.gg/Wbg5TYHAAF)
 
 - 🏴‍☠️ 丶wez qlf#8000
