@@ -15,6 +15,4 @@
 ---
 - 🏴‍☠️丶Je suis intéressé par : _**nehess**_
 
-- 🏴‍☠️ 丶J'travail sur un bot discord [(G arrt le projet tkt)](https://discord.gg/NhwpJpzcE8)
-
-- 🏴‍☠️ 丶wez qlf#8000
+- 🏴‍☠️ 丶J'travail sur un bot discord [(BetterGuard BOT)](https://discord.gg/2DPW877r9d)
