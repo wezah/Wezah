@@ -15,4 +15,4 @@
 ---
 - 🏴‍☠️丶Je suis intéressé par : _**nehess**_
 
-- 🏴‍☠️ 丶J'travail sur un bot discord : [BetterGuard Bot](https://discord.gg/2DPW877r9d) qui est approuvé par 600k users !
+- 🏴‍☠️ 丶J'travail sur un bot discord : [BetterGuard Bot](https://discord.gg/2DPW877r9d) qui est approuvé par **600k+** users !
