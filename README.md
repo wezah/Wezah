@@ -8,7 +8,6 @@
 <br><br>
   <img src="https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPAuqb-DEaPTigPQdHUbu16RE">
   <br><br>
----
     <a href="https://github.com/Wezah">
       <img src="https://lanyard-profile-readme.vercel.app/api/281492584176549891"> </a>
 </p>
