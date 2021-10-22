@@ -5,12 +5,11 @@
   <b> Réseaux 🎐</b><br>
 <a href="https://twitter.com/wezqlf"><img src="https://i.imgur.com/CuIpv32.png" alt="sayrixfx" width="37" height="30" /></a> 
 <a href="https://www.youtube.com/channel/UCI9ELTuau0YlBPP5miLKsXw"><img src="https://i.imgur.com/JVFQEu8.png" alt="sayrix" width="41"  height="30" /></a> 
-<br><br>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEcben5jYzu5zUdp3M6_F5kfZXeYl1KProxw&usqp=CAU">
-  <br><br>
+
+
+  <br>
     <a href="https://github.com/Wezah">
       <img src="https://lanyard-profile-readme.vercel.app/api/281492584176549891"> </a>
-</p>
 
 ---
 - 🎯 丶 Je suis intéressé par le language suivant : _**JavaScript**_
