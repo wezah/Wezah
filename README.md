@@ -14,4 +14,4 @@
 ---
 - 🎯 丶 Je suis intéressé par le language suivant : _**JavaScript**_
 
-- 🔧 丶 Je travail sur un bot discord : [BetterGuard](https://discord.gg/2DPW877r9d) qui est approuvé par **600k+** users !
+- 🔧 丶 Je travail sur un bot discord : [Chronal](https://discord.gg/fK3raMZgak) qui est approuvé par **600k+** users !
