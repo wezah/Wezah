@@ -8,7 +8,7 @@
        <a href="https://www.youtube.com/channel/UCI9ELTuau0YlBPP5miLKsXw" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 
 
-  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/818505825739735050/819662462382768150/351caf72c75afd8c58459687c46e38ec.png?950&height=204"/>
+  <img align="center" alt="PNG" src="https://cdn.discordapp.com/attachments/818505825739735050/819662462382768150/351caf72c75afd8c58459687c46e38ec.png?950&height=204"/>
   <br>
     <a href="https://github.com/Wezah">
       <img src="https://lanyard-profile-readme.vercel.app/api/281492584176549891"> </a>
