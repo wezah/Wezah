@@ -16,6 +16,6 @@
 
 ---
 
-- 🎯  Je suis intéressé par le language suivant : _**JavaScript**_
+- 📒  Je renforce mes compétences en _**JavaScript**_
 
-- 🔧  Je travail sur un bot discord, [Chronal](https://discord.gg/fK3raMZgak) qui est approuvé par **600k+** users !
+- 🛠  Un de mes bots est : [Chronal](https://discord.gg/37BNZCWfsZ), qui est approuvé par **400k+** users !
