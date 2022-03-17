@@ -11,7 +11,7 @@
 
 
   <div align="center">
-  <a href="https://discord.com/users/281492584176549891" target="_blank">
+  <a href="https://discord.com/users/155336365188317192" target="_blank">
   <img src="https://lanyard-profile-readme.vercel.app/api/281492584176549891?bg=111111"> 
    <div align="center">
      <a href="https://github.com/wezah/">
