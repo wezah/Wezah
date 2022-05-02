@@ -1,4 +1,6 @@
-
+ <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&color=111111&lines=Bonjour+cest+Wezah"> </img>
+</p>
 
  <p align="center">
     <a href="https://discordapp.com/users/281492584176549891" target"blank_"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a> 
